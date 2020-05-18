@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors
 
-> This is a Rock, Paper, Scissors game made with HTML, CSS and JAVASCRIPT following the video tutorial from <a href="freecodecamp.org" target="_blank">freeCodeCamp.org</a>
+> This is a Rock, Paper, Scissors game made with HTML, CSS and JAVASCRIPT following the video tutorial from <a href="https://freecodecamp.org" target="_blank">freeCodeCamp.org</a>
 
 > [Tutorial Link](https://www.youtube.com/watch?v=jaVNP3nIAv0).
 
